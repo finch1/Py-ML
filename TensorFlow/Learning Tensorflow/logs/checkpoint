@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\GOKU\\Documents\\PyLrn\\Learning Tensorflow\\logs\\trained_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\GOKU\\Documents\\PyLrn\\Learning Tensorflow\\logs\\trained_model.ckpt"
